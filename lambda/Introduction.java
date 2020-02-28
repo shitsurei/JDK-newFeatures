@@ -6,11 +6,11 @@ import java.awt.event.ActionListener;
 
 
 /**
+ * 01
  * Lisp：函数式编程语言鼻祖
  * Lambda：一种用于指定匿名函数或闭包的运算符
- * <p>
  * 为什么需要：
- * java中函数不能作为参数或返回值，相对的JavaScript中函数可以作为参数和范围值（回调函数）
+ * java中函数不能作为参数或返回值，相对的JavaScript中函数可以作为参数和返回值（回调函数）
  * 匿名内部类：图形化编程中常见
  *
  * @author 张国荣
